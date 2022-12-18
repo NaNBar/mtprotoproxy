@@ -20,7 +20,7 @@ MODES = {
 
 # The domain for TLS mode, bad clients are proxied there
 # Use random existing domain, proxy checks it on start
-TLS_DOMAIN = "www.torob.com"
+TLS_DOMAIN = "www.giphy.com"
 
 # Tag for advertising, obtainable from @MTProxybot
 AD_TAG = "b306c7fb16359572a01e7a5732863036"
